@@ -13,17 +13,13 @@
 
 ### 原始版本：430 分
 
-[![原始版本 430 分畫面](media/baseline-test-preview.png)](media/baseline-test.mp4)
-
-[觀看原始測試影片（MP4）](media/baseline-test.mp4)
+<video controls preload="metadata" src="/oliverchenOVO/ms-pacman-rl-10710/raw/refs/heads/main/media/baseline-test.mp4"></video>
 
 原始參考程式保存在 [`baseline/`](baseline/README.md)。它提供基本的遊戲環境、PPO 使用範例、自訂 CNN，以及可供學生修改的 reward/observation wrapper。
 
 ### 改良版本：10,710 分
 
-[![改良版本 10,710 分畫面](media/improved-10710-preview.png)](media/improved-10710.mp4)
-
-[觀看 10,710 分影片（MP4）](media/improved-10710.mp4)
+<video controls preload="metadata" src="/oliverchenOVO/ms-pacman-rl-10710/raw/refs/heads/main/media/improved-10710.mp4"></video>
 
 改良程式保存在 [`improved/`](improved/README.md)，最终使用的模型为 `improved/models/MsPacman-v5_avg10500.zip`。
 
