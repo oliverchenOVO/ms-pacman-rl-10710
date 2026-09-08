@@ -1,0 +1,3 @@
+version,verified_score,evidence,video_duration_seconds,notes
+baseline,430,media/baseline-test.mp4,34.02,Score confirmed from saved video end frame
+improved,10710,media/improved-10710.mp4,46.43,Highest retained score with matching video evidence

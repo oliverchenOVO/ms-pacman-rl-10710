@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Training outputs
+logs/
+recordings/
+models/checkpoints/
+*.tfevents.*
+*.npz
+*.pkl
+
+# Local secrets and configuration
+.env
+*.local
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Atari ROMs must never be committed
+roms/
+*.a26
+*.rom

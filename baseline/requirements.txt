@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3
+matplotlib
+requests
+opencv-python-headless
+numpy
+ale-py
