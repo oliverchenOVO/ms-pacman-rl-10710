@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/60973a89-b809-4d98-99c7-32ff40e7ea87
 
 https://github.com/user-attachments/assets/ec17f6f5-e232-4977-852f-238655ba6af9
 
-改良程式保存在 [`improved/`](improved/README.md)，最终使用的模型为 `improved/models/MsPacman-v5_avg10500.zip`。
+改良程式保存在 [`improved/`](improved/README.md)，最終使用的模型為 `improved/models/MsPacman-v5_avg10500.zip`。
 
 ## 我修改了什麼
 
